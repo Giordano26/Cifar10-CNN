@@ -60,4 +60,4 @@ python tests.py
 
 ## Results
 
-- The model in the actual state v 1.0 could achive a 81% of accuracy within the train of 20 epochs
+- The model in its current state, version 1.0, was able to achieve an accuracy of 81% within 20 epochs of training
