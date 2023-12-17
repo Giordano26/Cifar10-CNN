@@ -33,11 +33,11 @@ This is an implementation in Python with PyTorch + CUDA of a CNN capable of iden
 
 ## Dependencies
 
-- Python 3.x [https://www.python.org/]
-- PyTorch [https://pytorch.org/]
-- Matplotlib [https://matplotlib.org/]
-- CUDA [https://developer.nvidia.com/cuda-toolkit]
-- CIFAR10 [https://www.cs.toronto.edu/~kriz/cifar.html]
+- Python 3.x (https://www.python.org/)
+- PyTorch (https://pytorch.org/)
+- Matplotlib (https://matplotlib.org/)
+- CUDA (https://developer.nvidia.com/cuda-toolkit)
+- CIFAR10 (https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Installation
 
